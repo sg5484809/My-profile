@@ -18,7 +18,7 @@ export default function HireMe() {
             If you are looking for a passionate developer skilled in
             <span className="font-semibold"> React, Next.js, Tailwind CSS</span>, and
             <span className="font-semibold"> problem solving with C++/Python</span>,  
-            let's connect.
+            Please connect.
           </p>
 
           <div className="space-y-4 text-gray-700">
