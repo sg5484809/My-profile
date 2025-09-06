@@ -15,10 +15,10 @@ export default function HireMe() {
 
           <p className="text-gray-700 mb-6 text-center">
             I'm always excited to collaborate on new projects and opportunities!  
-            If you’re looking for a passionate developer skilled in
+            If you are looking for a passionate developer skilled in
             <span className="font-semibold"> React, Next.js, Tailwind CSS</span>, and
             <span className="font-semibold"> problem solving with C++/Python</span>,  
-            let’s connect.
+            let's connect.
           </p>
 
           <div className="space-y-4 text-gray-700">
